@@ -15,18 +15,16 @@ body{
 
 header{
 	width: 100%;
-	height: auto;
-	margin: 0 auto;
-	padding: 0px;
+	height: 150px;
+	float:left;
 	/*background-image: url(img/topo.png);*/
 	background-color: #12214D;
-	display: table;
 }
 
 nav{
-	width:auto;
-	display:table;
-	height:62px;
+	width:1040px;
+	height:59px;
+	margin-top:80px;
 	padding-top:8px;
 	background-repeat: repeat-x;
 	font-size: 14px;
@@ -48,8 +46,6 @@ nav{
 	width:1060px;
 	height:auto;
 	margin-top:10px; 
-	margin: 0 auto;
-	padding: 0px;
 }
 
 #container .box01{
@@ -202,8 +198,6 @@ footer{
 
 
 footer #boxfooter{
-	margin: 0 auto;
-	padding: 0px;
 	width: 1040px;	
 }
 
